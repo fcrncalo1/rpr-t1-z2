@@ -10,6 +10,7 @@ public class Main {
         return suma;
     }
     public static void main(String[] args) {
+        System.out.println("Ovo su neke izmjene!");
         Scanner ulaz = new Scanner(System.in);
         System.out.print("Unesite broj: ");
         int n = ulaz.nextInt();
